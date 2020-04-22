@@ -21,7 +21,10 @@ Pixelated image
 
 1. Clone this repo using `git clone git@github.com:Vitorhr10/pixelated-image.git`
 2. Move yourself to the appropriate directory: `cd Caracteres`
-3. Run `execut the file` and type a word
+3. Open this project in Netbeans IDE
+4. Run `execut the file`
+5. Type a word to generate a pixelated image
+6. Go to the root of the project to see the pixelated image
 
 ## License
 
