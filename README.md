@@ -10,11 +10,6 @@ Pixelated image
   </a>
 </p>
 
-<div>
-  <img src="palavra.png" alt="Pixelated image">
-  <img src="retro_computer.png" alt="All caracters">
-</div>
-
 <hr />
 
 ## Getting started
